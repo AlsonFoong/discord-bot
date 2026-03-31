@@ -1,0 +1,20 @@
+{
+  "name": "[REDACTED]",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.44.0",
+    "discord.js": "^14.18.0",
+    "jimp": "^0.22.12",
+    "nodemon": "^3.1.0",
+    "wtf_wikipedia": "^10.3.0",
+    "wtf-plugin-api": "^2.0.0"
+  }
+}
